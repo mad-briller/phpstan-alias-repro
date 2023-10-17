@@ -2,7 +2,7 @@
 
 namespace Madbriller\PhpstanRepro;
 
-class Impl extends AbstractImpl
+class Impl implements InterfaceAlias
 {
 
 }

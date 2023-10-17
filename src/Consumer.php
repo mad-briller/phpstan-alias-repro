@@ -2,7 +2,7 @@
 
 namespace Madbriller\PhpstanRepro;
 
-class Consumer extends AbstractImpl
+class Consumer
 {
     public function call(InterfaceAlias $impl): void
     {
